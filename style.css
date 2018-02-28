@@ -1,0 +1,46 @@
+body{
+    background-color: #359aae;
+    text-align: center;
+    color: antiquewhite;
+}
+#Title{
+    height: 100px;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 30px;
+    background-color: rgba(0, 54, 94, 0.5);
+    
+}
+h1 {
+    padding: 0px;
+    margin: 0px;
+    f
+}
+#btn{
+    cursor: pointer;
+    padding: 10px 100px;
+    border: 1px solid rgba(0, 54, 94, 0.5);
+    border-radius: 10px;
+    background-color:rgba(0, 54, 94, 0.5);
+    color: antiquewhite;
+}
+#shakebtn{
+    cursor: pointer;
+    padding: 10px 100px;
+    border: 1px solid rgba(0, 54, 94, 0.5);
+    border-radius: 10px;
+    background-color:rgba(0, 54, 94, 0.5);
+    color: antiquewhite;
+}
+#btn:hover{
+    background-color:cadetblue;
+}
+#shakebtn:hover{
+    background-color:cadetblue;
+}
+#Insult{
+    font-size: 3em;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    }
